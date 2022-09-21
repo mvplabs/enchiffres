@@ -1,0 +1,326 @@
+[
+    {
+      "2019": 2295,
+      "Type": "Total",
+      "Catégorie": "Total",
+      "Déciles": 10
+    },
+    {
+      "2019": 2606,
+      "Type": "Total",
+      "Catégorie": "Total",
+      "Déciles": 20
+    },
+    {
+      "2019": 2850,
+      "Type": "Total",
+      "Catégorie": "Total",
+      "Déciles": 30
+    },
+    {
+      "2019": 3195,
+      "Type": "Total",
+      "Catégorie": "Total",
+      "Déciles": 40
+    },
+    {
+      "2019": 3486,
+      "Type": "Total",
+      "Catégorie": "Total",
+      "Déciles": 50
+    },
+    {
+      "2019": 3781,
+      "Type": "Total",
+      "Catégorie": "Total",
+      "Déciles": 60
+    },
+    {
+      "2019": 4099,
+      "Type": "Total",
+      "Catégorie": "Total",
+      "Déciles": 70
+    },
+    {
+      "2019": 4713,
+      "Type": "Total",
+      "Catégorie": "Total",
+      "Déciles": 80
+    },
+    {
+      "2019": 5886,
+      "Type": "Total",
+      "Catégorie": "Total",
+      "Déciles": 90
+    },
+    {
+      "2019": 2200,
+      "Type": "Genre",
+      "Catégorie": "Femmes",
+      "Déciles": 10
+    },
+    {
+      "2019": 2496,
+      "Type": "Genre",
+      "Catégorie": "Femmes",
+      "Déciles": 20
+    },
+    {
+      "2019": 2731,
+      "Type": "Genre",
+      "Catégorie": "Femmes",
+      "Déciles": 30
+    },
+    {
+      "2019": 3072,
+      "Type": "Genre",
+      "Catégorie": "Femmes",
+      "Déciles": 40
+    },
+    {
+      "2019": 3394,
+      "Type": "Genre",
+      "Catégorie": "Femmes",
+      "Déciles": 50
+    },
+    {
+      "2019": 3683,
+      "Type": "Genre",
+      "Catégorie": "Femmes",
+      "Déciles": 60
+    },
+    {
+      "2019": 4029,
+      "Type": "Genre",
+      "Catégorie": "Femmes",
+      "Déciles": 70
+    },
+    {
+      "2019": 4544,
+      "Type": "Genre",
+      "Catégorie": "Femmes",
+      "Déciles": 80
+    },
+    {
+      "2019": 5613,
+      "Type": "Genre",
+      "Catégorie": "Femmes",
+      "Déciles": 90
+    },
+    {
+      "2019": 2331,
+      "Type": "Genre",
+      "Catégorie": "Hommes",
+      "Déciles": 10
+    },
+    {
+      "2019": 2650,
+      "Type": "Genre",
+      "Catégorie": "Hommes",
+      "Déciles": 20
+    },
+    {
+      "2019": 2882,
+      "Type": "Genre",
+      "Catégorie": "Hommes",
+      "Déciles": 30
+    },
+    {
+      "2019": 3241,
+      "Type": "Genre",
+      "Catégorie": "Hommes",
+      "Déciles": 40
+    },
+    {
+      "2019": 3528,
+      "Type": "Genre",
+      "Catégorie": "Hommes",
+      "Déciles": 50
+    },
+    {
+      "2019": 3815,
+      "Type": "Genre",
+      "Catégorie": "Hommes",
+      "Déciles": 60
+    },
+    {
+      "2019": 4124,
+      "Type": "Genre",
+      "Catégorie": "Hommes",
+      "Déciles": 70
+    },
+    {
+      "2019": 4781,
+      "Type": "Genre",
+      "Catégorie": "Hommes",
+      "Déciles": 80
+    },
+    {
+      "2019": 5989,
+      "Type": "Genre",
+      "Catégorie": "Hommes",
+      "Déciles": 90
+    },
+    {
+      "2019": 2328,
+      "Type": "Région",
+      "Catégorie": "Région de Bruxelles-Capitale",
+      "Déciles": 10
+    },
+    {
+      "2019": 2689,
+      "Type": "Région",
+      "Catégorie": "Région de Bruxelles-Capitale",
+      "Déciles": 20
+    },
+    {
+      "2019": 3003,
+      "Type": "Région",
+      "Catégorie": "Région de Bruxelles-Capitale",
+      "Déciles": 30
+    },
+    {
+      "2019": 3492,
+      "Type": "Région",
+      "Catégorie": "Région de Bruxelles-Capitale",
+      "Déciles": 40
+    },
+    {
+      "2019": 3881,
+      "Type": "Région",
+      "Catégorie": "Région de Bruxelles-Capitale",
+      "Déciles": 50
+    },
+    {
+      "2019": 4466,
+      "Type": "Région",
+      "Catégorie": "Région de Bruxelles-Capitale",
+      "Déciles": 60
+    },
+    {
+      "2019": 4939,
+      "Type": "Région",
+      "Catégorie": "Région de Bruxelles-Capitale",
+      "Déciles": 70
+    },
+    {
+      "2019": 5753,
+      "Type": "Région",
+      "Catégorie": "Région de Bruxelles-Capitale",
+      "Déciles": 80
+    },
+    {
+      "2019": 7244,
+      "Type": "Région",
+      "Catégorie": "Région de Bruxelles-Capitale",
+      "Déciles": 90
+    },
+    {
+      "2019": 2302,
+      "Type": "Région",
+      "Catégorie": "Région flamande",
+      "Déciles": 10
+    },
+    {
+      "2019": 2590,
+      "Type": "Région",
+      "Catégorie": "Région flamande",
+      "Déciles": 20
+    },
+    {
+      "2019": 2835,
+      "Type": "Région",
+      "Catégorie": "Région flamande",
+      "Déciles": 30
+    },
+    {
+      "2019": 3185,
+      "Type": "Région",
+      "Catégorie": "Région flamande",
+      "Déciles": 40
+    },
+    {
+      "2019": 3492,
+      "Type": "Région",
+      "Catégorie": "Région flamande",
+      "Déciles": 50
+    },
+    {
+      "2019": 3753,
+      "Type": "Région",
+      "Catégorie": "Région flamande",
+      "Déciles": 60
+    },
+    {
+      "2019": 4032,
+      "Type": "Région",
+      "Catégorie": "Région flamande",
+      "Déciles": 70
+    },
+    {
+      "2019": 4616,
+      "Type": "Région",
+      "Catégorie": "Région flamande",
+      "Déciles": 80
+    },
+    {
+      "2019": 5727,
+      "Type": "Région",
+      "Catégorie": "Région flamande",
+      "Déciles": 90
+    },
+    {
+      "2019": 2227,
+      "Type": "Région",
+      "Catégorie": "Région wallonne",
+      "Déciles": 10
+    },
+    {
+      "2019": 2534,
+      "Type": "Région",
+      "Catégorie": "Région wallonne",
+      "Déciles": 20
+    },
+    {
+      "2019": 2746,
+      "Type": "Région",
+      "Catégorie": "Région wallonne",
+      "Déciles": 30
+    },
+    {
+      "2019": 3095,
+      "Type": "Région",
+      "Catégorie": "Région wallonne",
+      "Déciles": 40
+    },
+    {
+      "2019": 3302,
+      "Type": "Région",
+      "Catégorie": "Région wallonne",
+      "Déciles": 50
+    },
+    {
+      "2019": 3596,
+      "Type": "Région",
+      "Catégorie": "Région wallonne",
+      "Déciles": 60
+    },
+    {
+      "2019": 3804,
+      "Type": "Région",
+      "Catégorie": "Région wallonne",
+      "Déciles": 70
+    },
+    {
+      "2019": 4324,
+      "Type": "Région",
+      "Catégorie": "Région wallonne",
+      "Déciles": 80
+    },
+    {
+      "2019": 5281,
+      "Type": "Région",
+      "Catégorie": "Région wallonne",
+      "Déciles": 90
+    }
+  ]
