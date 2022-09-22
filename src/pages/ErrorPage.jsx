@@ -1,3 +1,7 @@
+
+
+import logo from '../images/logo.svg';
+
 export default function ErrorPage() {
     return (
       <>
@@ -8,7 +12,7 @@ export default function ErrorPage() {
               <div className="sm:ml-6">
                 <div className="sm:border-l sm:border-gray-200 sm:pl-6">
                   <h1 className="text-4xl font-bold tracking-tight text-gray-900 sm:text-5xl">
-                    <img src="/enchiffres.svg" className="h-8 w-8 inline mr-4 mb-1" />Page non trouvée
+                    <img src={logo} alt="logo" className="h-8 w-8 inline mr-4 mb-1" />Page non trouvée
                   </h1>
                   <p className="mt-1 text-base text-gray-500">Vérifiez le lien ou essayez à nouveau.</p>
                 </div>
