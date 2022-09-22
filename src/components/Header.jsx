@@ -1,6 +1,7 @@
 import { Disclosure } from '@headlessui/react'
 import { Bars3Icon, BellIcon, XMarkIcon } from '@heroicons/react/24/outline'
 import { Link } from 'react-router-dom'
+import logo from '../images/logo.svg'
 
 const navigation = [
     { name: 'En chiffres', href: '/', current: true },
@@ -23,12 +24,12 @@ export default function Header() {
                                 <div className="flex flex-shrink-0 items-center">
                                     <img
                                         className="block h-8 w-auto lg:hidden"
-                                        src="/enchiffres.svg"
+                                        src={logo}
                                         alt="Your Company"
                                     />
                                     <img
                                         className="hidden h-8 w-auto lg:block"
-                                        src="/enchiffres.svg"
+                                        src={logo}
                                         alt="Your Company"
                                     />
                                 </div>

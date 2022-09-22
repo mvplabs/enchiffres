@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="450" height="300">
+    <rect x="0" y="200" width="120" height="100" fill="#000000">
+        <animate attributeName="height" values="100;300;100" dur="4s" fill="freeze" />
+        <animate attributeName="y" values="200;000;200" dur="4s" fill="freeze" />
+    </rect>
+    <rect x="150" y="100" width="120" height="200" fill="#FECB00">
+    </rect>
+    <rect x="300" y="0" width="120" height="300" fill="#ed2939">
+        <animate attributeName="height" values="300;100;300" dur="4s" fill="freeze" />
+        <animate attributeName="y" values="0;200;0" dur="4s" fill="freeze" />
+    </rect>
+</svg>
