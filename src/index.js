@@ -28,9 +28,7 @@ const router = createBrowserRouter([
       ]
   }
 
-], 
-  { basename: "/enchiffres" },
-);
+]);
 
 ReactDOM.createRoot(document.getElementById("root")).render(
   <React.StrictMode>
