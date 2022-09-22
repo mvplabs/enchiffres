@@ -7,12 +7,12 @@ import AboutPage from './pages/AboutPage';
 import WelcomePage from './pages/WelcomePage';
 import reportWebVitals from './reportWebVitals';
 import {
-  createBrowserRouter,
+  createHashRouter,
   RouterProvider,
   Route,
 } from "react-router-dom";
 
-const router = createBrowserRouter([
+const router = createHashRouter([
   {
     path: "/",
     element: <App />,
